@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shadvengeror/COMP3104/static/css/main.27ca76a1.css",
+    "main.js": "/Shadvengeror/COMP3104/static/js/main.f790d8b3.js",
+    "static/js/453.963c96ea.chunk.js": "/Shadvengeror/COMP3104/static/js/453.963c96ea.chunk.js",
+    "index.html": "/Shadvengeror/COMP3104/index.html",
+    "main.27ca76a1.css.map": "/Shadvengeror/COMP3104/static/css/main.27ca76a1.css.map",
+    "main.f790d8b3.js.map": "/Shadvengeror/COMP3104/static/js/main.f790d8b3.js.map",
+    "453.963c96ea.chunk.js.map": "/Shadvengeror/COMP3104/static/js/453.963c96ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.f790d8b3.js"
+  ]
+}
