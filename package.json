@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "echo \"Error: no test specified\"",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "echo \"Error: no test specified\"",
+  "eject": "react-scripts eject",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Shadvengeror/COMP3104.git"
@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/Shadvengeror/COMP3104/issues"
   },
-  "homepage": "https://github.com/Shadvengeror/COMP3104#readme",
+  "homepage": "https://Shadvengeror.github.io/COMP3104",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
